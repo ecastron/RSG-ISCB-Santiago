@@ -11,9 +11,9 @@ En este taller vamos a presentar y discutir los aspectos básicos del ensamblaje
 
 En resumen, vamos a movernos a través de los pasos canónicos desde que recibimos los archivos desde el secuenciador hasta que comenzamos a examinar los resultados de lo que llamamos un genoma ensamblado y anotado.  
 
-1. Control de calidad y procesamiento de datos genómicos (PrinSeq, PEAR)
-2. Ensamblaje de genomas con múltiples parámetros (SPAdes, A5-pipeline, QUAST)
-3. Anotación automática de genes ab initio y por homología (Prokka, EggNOG-Mapper)
-4. Exploración de resultados en exploradores de genomas (Artemis Comparison Tool, Geneious Basic)  
+1. Control de calidad y procesamiento de datos genómicos ([PrinSeq](http://prinseq.sourceforge.net), [PEAR](http://sco.h-its.org/exelixis/web/software/pear/))
+2. Ensamblaje de genomas con múltiples parámetros ([SPAdes](http://bioinf.spbau.ru/spades), [A5-pipeline](https://sourceforge.net/projects/ngopt/), [QUAST](http://quast.bioinf.spbau.ru))
+3. Anotación automática de genes ab initio y por homología ([Prokka](https://github.com/tseemann/prokka), [EggNOG-Mapper](https://github.com/jhcepas/eggnog-mapper))
+4. Exploración de resultados en exploradores de genomas ([Artemis Comparison Tool] (http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act), [Geneious Basic](http://www.geneious.com))  
 
 Por motivos de tiempo, estamos dejando un paso muy importante afuera que tiene relación con el control de calidad de los fragmentos de DNA secuenciados, i.e., revisar si lo que nos entrega el secuenciador está libre de secuencias contaminantes
