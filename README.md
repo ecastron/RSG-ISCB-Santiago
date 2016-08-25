@@ -16,4 +16,4 @@ En resumen, vamos a movernos a través de los pasos canónicos desde que recibim
 3. Anotación automática de genes ab initio y por homología ([Prokka](https://github.com/tseemann/prokka), [EggNOG-Mapper](https://github.com/jhcepas/eggnog-mapper))
 4. Exploración de resultados en exploradores de genomas ([Artemis Comparison Tool] (http://www.sanger.ac.uk/science/tools/artemis-comparison-tool-act), [Geneious Basic](http://www.geneious.com))  
 
-Por motivos de tiempo, estamos dejando un paso muy importante afuera que tiene relación con el control de calidad de los fragmentos de DNA secuenciados, i.e., revisar si lo que nos entrega el secuenciador está libre de secuencias contaminantes
+Por motivos de tiempo, estamos dejando un paso muy importante afuera que tiene relación con el control de calidad de los fragmentos de DNA secuenciados, i.e., revisar si lo que nos entrega el secuenciador está libre de secuencias contaminantes, e.g., secuencias de humanos, otras bacterias, virus, etc. Revisa los siguientes manuscritos si estás interesado en aprender más sobre contaminación
