@@ -1,8 +1,9 @@
 # RSG-ISCB-Santiago - Taller sobre ensamblaje y anotación de genomas bacterianos
 --------------------------------------
 
-- **Autor**: Eduardo Castro
-- **Fecha**: 27 de agosto de 2016
+- **Autor**: [Eduardo Castro](http://castrolab.org)
+- **Fecha**: 27 de agosto de 2016  
+- **Lugar**: Sala zócalo 2 (o ZO5), Facultad de Ciencias Biológicas, Pontificia Universidad Católica de Chile. Portugal 49
 
 ### Introducción
 
