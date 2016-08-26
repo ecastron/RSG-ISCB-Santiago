@@ -24,8 +24,8 @@ Otro paso muy importante que vamos a dejar afuera tiene que ver con orientar los
 Hoy vamos a trabajar con dos genomas bacterianos, *Escherichia coli* y *Pseudomonas fluorescens*. El aislado de *E. coli* fue obtenido de una muestra de carne de pollo que se compró en un supermercado en Washington, DC. El aislado de *P. fluorescens* fue obtenido de una muestra de suelo antártico.  
 
 Descargar [*Pseudomonas fluorescens*](http://tinyurl.com/jn7nukh)  
-Descargar [*Escherichia coli*](http://tinyurl.com/zu32w3j)
-
+Descargar [*Escherichia coli*](http://tinyurl.com/zu32w3j)  
+[Clase introducción](https://github.com/ecastron/RSG-ISCB-Santiago/raw/master/RSG-ISCB.pdf)  
 
 
 
