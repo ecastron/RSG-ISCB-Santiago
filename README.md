@@ -18,4 +18,15 @@ En resumen, vamos a movernos a través de los pasos canónicos desde que recibim
 
 Por motivos de tiempo, estamos dejando un paso muy importante afuera que tiene relación con el control de calidad de los fragmentos de DNA secuenciados, i.e., revisar si lo que nos entrega el secuenciador está libre de secuencias contaminantes, e.g., secuencias de humanos, otras bacterias, virus, etc. Revisa los siguientes manuscritos si estás interesado en aprender más sobre contaminación --> [PMID: 21408061](http://www.ncbi.nlm.nih.gov/pubmed/21408061); [PMID: 25412476] (http://www.ncbi.nlm.nih.gov/pubmed/25412476)  
 
-Otro paso muy importante que vamos a dejar afuera tiene que ver con orientar los fragmentos de DNA contiguos producto del ensamblaje, i.e., orientar los contigs. Esto es comúnmente llamado Scaffolding y en general se utilizan uno o más genomas de referencia y las reads originales para guiar la orientación de los contigs. Para los interesados, revisar: Ragout ([PMID: 24931998] (http://www.ncbi.nlm.nih.gov/pubmed/24931998))
+Otro paso muy importante que vamos a dejar afuera tiene que ver con orientar los fragmentos de DNA contiguos producto del ensamblaje, i.e., orientar los contigs. Esto es comúnmente llamado Scaffolding y en general se utilizan uno o más genomas de referencia y las reads originales para guiar la orientación de los contigs. Para los interesados, revisar: Ragout ([PMID: 24931998] (http://www.ncbi.nlm.nih.gov/pubmed/24931998))  
+
+
+Hoy vamos a trabajar con dos genomas bacterianos, *Escherichia coli* y *Pseudomonas fluorescens*. El aislado de *E. coli* fue obtenido de una muestra de carne de pollo que se compró en un supermercado en Washington, DC. El aislado de *P. fluorescens* fue obtenido de una muestra de suelo antártico.  
+
+Descargar [*Pseudomonas fluorescens*](http://tinyurl.com/jn7nukh)  
+Descargar [*Escherichia coli*](http://tinyurl.com/zu32w3j)
+
+
+
+
+
