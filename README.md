@@ -1,3 +1,5 @@
+https://github.com/ecastron/RSG-ISCB-Santiago/blob/master/README.md  
+
 # RSG-ISCB-Santiago - Taller sobre ensamblaje y anotación de genomas bacterianos
 --------------------------------------
 
