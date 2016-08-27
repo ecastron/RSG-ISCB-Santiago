@@ -29,6 +29,8 @@ Descargar [*Pseudomonas fluorescens*](http://tinyurl.com/jn7nukh)
 Descargar [*Escherichia coli*](http://tinyurl.com/zu32w3j)  
 [Clase introducción](https://github.com/ecastron/RSG-ISCB-Santiago/raw/master/RSG-ISCB.pdf)  
 
+Si tienes Mac, necesitarás instalar el programa Xcode y luego de eso las "command line tools". Xcode se puede instalar desde el App Store y las "command line tools" se instalan desde la terminal usando el comando `xcode-select --install`  
+
 
 
 
